@@ -1,3 +1,3 @@
 print("yeet")
-print("OK")
-
+print("OK!")
+print("you're doing great")
